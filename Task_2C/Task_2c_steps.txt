@@ -1,0 +1,10 @@
+Team ID = 
+Trained weights drive link = "https://drive.google.com/file/d/17rvLfX6CjDlXJU7RGFqqOd2PfVyyFdvl/view?usp=share_link"    
+###############################################################################
+'''
+Please write the complete steps taken by your team explaining how you completed Task 2C. It is adviced to be as elaborate as possible.
+
+1.Found the coordinats of the events by bounding box that is white color 
+manually 
+2.Extracting images from that coordinates
+3.Applying the trained model on the extracted images
